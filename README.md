@@ -12,7 +12,7 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=marcopellegrinoit&show_icons=true&count_private=true&theme=tokyonight" height=200></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcopellegrinoit&count_private=true&theme=tokyonight&hide=jupyter%20notebook,html,css&layout=compact&langs_count=6" height=200></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcopellegrinoit&count_private=true&theme=tokyonight,html,css&layout=compact&langs_count=6" height=200></a>
 </p>
 
 <h3>About me</h3>
