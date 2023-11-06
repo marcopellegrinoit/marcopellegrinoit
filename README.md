@@ -11,7 +11,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcopellegrinoit&count_private=true&theme=tokyonight&layout=compact&langs_count=6" height=200 width=1000></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcopellegrinoit&count_private=true&theme=tokyonight&layout=compact&langs_count=6" height=200 width=1500></a>&nbsp;&nbsp;
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=marcopellegrinoit&show_icons=true&count_private=true&theme=tokyonight" height=200></a>
 </p>
 
