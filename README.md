@@ -17,7 +17,7 @@
 
 <h3>About me</h3>
 
-* Master's Degree in **Artificial Intelligence** at Utrecht Unviersity 🎓
-* **Data Scientist** at **Utrecht Unviersity** and **Rebel Group**
-* I'm specialising in **Machine Learning**, **Data Analysis**, and **Managing Large Datasets** 👨🏼‍💻
-* Now based in **Stockholm**, Sweden, looking for my next career step as a Data Scientist / Machine Learning Engineer
+* Master's Degree in **Artificial Intelligence** at Utrecht University 🎓
+* **Work Experience** as a **Data Scientist** and **Machine Learning Engineer** 👨‍💻
+* Specializing in **Machine Learning**, **Data Analysis**, and **Managing Large Datasets** 🔥
+* Now based in **Stockholm**, Sweden, looking for my next career step as a Data Scientist / Machine Learning Engineer 📍
