@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Marco Pellegrino</h1>
 
 <p align='center'>
-  Machine Learning Engineer & Data Scientist at Hopsworks <img src="https://avatars.githubusercontent.com/u/26795543?s=10&v=4" alt="Hopsworks"> <br>
+  Machine Learning Engineer & Data Scientist at Hopsworks <img src="https://avatars.githubusercontent.com/u/26795543?s=20&v=4" alt="Hopsworks"> <br>
   <a href="https://www.linkedin.com/in/marco-pellegrino-it/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
   </a>&nbsp;&nbsp;
