@@ -1,4 +1,6 @@
 <h1 align="center">👋 Hi, I’m Marco Pellegrino</h1>
+Machine Learning Engineer & Data Scientist at Hopsworks ![Hopsworks](https://avatars.githubusercontent.com/u/26795543?s=50&v=4)
+
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/marco-pellegrino-it/">
@@ -20,4 +22,4 @@
 * Master's Degree in **Artificial Intelligence** at Utrecht University 🎓
 * **Work Experience** as a **Data Scientist** and **Machine Learning Engineer** 👨‍💻
 * Specializing in **Machine Learning**, **Data Analysis**, and **Managing Large Datasets** 🔥
-* Now based in **Stockholm**, Sweden, looking for my next career step as a Data Scientist / Machine Learning Engineer 📍
+* Now based in **Stockholm**, Sweden, working at Hopsworks as a Data Scientist / Machine Learning Engineer 📍
