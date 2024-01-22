@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Marco Pellegrino</h1>
-Machine Learning Engineer & Data Scientist at Hopsworks ![Hopsworks](https://assets-global.website-files.com/5f6353590bb01cacbcecfbac/62bcc94c0babe746f7156b64_hopsworks-logo%202022.svg)
+Machine Learning Engineer & Data Scientist at Hopsworks ![Hopsworks](https://aihubtest-bucket.s3.eu-north-1.amazonaws.com/public/storage/images/1798/Hopsworks-Icon-Green.png)
 
 
 <p align='center'>
