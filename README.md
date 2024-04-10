@@ -18,7 +18,7 @@
 
 <h3>About me</h3>
 
-* Master's Degree in **Artificial Intelligence** at Utrecht University 🎓
-* **Work Experience** as a **Data Scientist** and **Machine Learning Engineer** 👨‍💻
+* **2 years of Work Experience** as a **Data Scientist** 👨‍💻
 * Specializing in **Machine Learning**, **Data Analysis**, and **Managing Large Datasets** 🔥
 * Now based in **Stockholm**, Sweden, working at Hopsworks as a Data Scientist 📍
+* Master's Degree in **Artificial Intelligence** at Utrecht University 🎓
