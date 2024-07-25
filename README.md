@@ -18,7 +18,7 @@
 
 <h3>About me</h3>
 
-* **2 years of Work Experience** as a **Data Scientist** 👨‍💻
-* Specializing in **Machine Learning**, **Data Analysis**, and **Managing Large Datasets** 🔥
-* Now based in **Stockholm**, Sweden. My last working experience was at <a href="https://github.com/logicalclocks">Hopsworks</a> as a Data Scientist. 📍
+* **2 years of Work Experience** as a **Machine Learning Engineer** & **Data Scientist** 👨‍💻
+* Specializing in **Machine Learning**, **Data Analysis**, **Managing Large Datasets**, and **Cloud Solutions (GCP, AWS)** 🔥
+* Currently based in **Stockholm**, Sweden.  📍🇸🇪
 * Master's Degree in **Artificial Intelligence** at Utrecht University 🎓
